@@ -115,188 +115,78 @@ https://tv-e-okul00.live.trt.com.tr/master.m3u8
 https://tv-e-okul01.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgvcV7r/trtebalise.png" , TRT EBA LISE
 https://tv-e-okul02.live.trt.com.tr/master.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="اخبار", tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrrPT42Cj7O8tB9_ldrlGrRqVExRd28Th_a9lz82xgl8WOHMNTdS4faPQi&s=10" ,تركي عربي 
-
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x9TQYI3.jpg" ,Al Jazeera عربي 
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oFGPG9Y.png" ,BBC عربي 
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live.mpd
-
-
 #EXTINF:-1 tvg-logo="https://ui.cgtn.com/static/resource/images/icon_new/live/live_AR.png" ,CGTN عربي 
 http://livear.cgtn.com/1000a/prog_index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" ,DW عربي 
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png" ,France 24 عربي 
 https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MosTwQW.png"  ,Medi 1 TV A عربي 
 https://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8
-
-
 #EXTINF:-1  tvg-logo="https://i.imgur.com/XYJEasM.png" ,RT Arabic 
 https://rt-arb.gcdn.co/live/rtarab/playlist.m3u8
-
-
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_VuFYbwABq45SGRKDKthexSRDCjR5eQJCNQ4Zn22sHR_KgYB81f3Mup4&s=10" ,الحرة عرق
-
 https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="http://www.alittihad.tv/assets/images/logo_new.png" ,الأتحاد
-
 https://live.alittihad.tv/ittihad/index.m3u8
-
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Al-Mamlaka_TV_logo.png" ,المملكة 
-
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
-
 #EXTINF:-1  tvg-logo="https://polokom.com.tr/wp-content/uploads/2020/11/WATAN-TV-PNG.png" ,وطن
-
 http://51.15.246.58:8081/watantv_source2/live/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ooiJwD5.png" group-title="",Alhiwar TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ooiJwD5.png",Alhiwar TV
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/El2hhYb.png",Al Jazeera Documentary
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LNI1HNi.png",Alaraby TV 
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="تركي", tvg-logo="https://i.ibb.co/PGjZ9JB/tgrthab.png" , TGRT HABER
 https://mn-nl.mncdn.com/blutv_tgrthaber2/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w7DF3N1/trt1.png" , TRT 1
 https://mn-nl.mncdn.com/blutv_trt12/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PcDpxSH/startr1.png" , STAR
 https://mn-nl.mncdn.com/blutv_startv2/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" , KANAL D
 https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" , SHOW
 https://mn-nl.mncdn.com/blutv_showtv2/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4tyCssZ/fox.png" , FOX
 http://213.115.248.46:9000/TR_-_FOX_HD_PLUS/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s3y8PX9/a2.jpg" , A2
 http://213.115.248.46:9000/TR_-_A2_HD_PLUS/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kxjKk89/showmax.png" , SHOW MAX
 http://iptvmasterlink.dyndns.org:8080/ShowMax/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yRZ79Gn/trtspor.png" , TRT SPOR
 https://mn-nl.mncdn.com/blutv_trtspor2/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png" , TRT SPOR2 YILDIZ
 https://mn-nl.mncdn.com/blutv_trtsporyildiz/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pQvb87s/trt3s.png" , TRT3 SPOR / TBMM TV
 http://iptvmasterlink.dyndns.org:8080/Entry/meclistv_yeni/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rynNr53/yabantv.png" , YABAN TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrCXNB_3Pkl0rvZHM8x43T9aqw7wJN-0ZEDg&usqp=CAU" , TRT 2
 http://167.114.115.233:8080/trt2fhd/index.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xDLXDQS/eurostar.png" , EURO STAR
 https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png" , SHOW TÜRK
 https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="اغاني تركي ", tvg-logo="https://i.ibb.co/6401NQw/kraltv.png" , KRAL TV
 https://dogus-live.daioncdn.net/kraltv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GVWZrhp/powerturk.png" , POWER TÜRK
 http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4SsJS4R/dreamturk.png" , DREAM TÜRK
 https://mn-nl.mncdn.com/blutv_dreamturk2/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cQfPfgR/tatlises.png" , TATLISES
 http://waw3.artiyerelmedya.net/tatlisestv/bant1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jqzzby7/milyontv.png" , MILYON TV
 https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xhfcTC7/powertv.png" , POWER TV
 http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="افلام", tvg-logo="gggggg" , KRAL TV
 https://c28.amzn-cdn.net/kmxsvpjjpnumwmesrlseyy7vmba7ag4pae5fa7z2qpxwf6gvu75gbp677pna/v.mp4
 
