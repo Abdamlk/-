@@ -187,11 +187,19 @@ http://waw3.artiyerelmedya.net/tatlisestv/bant1/playlist.m3u8
 https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xhfcTC7/powertv.png" , POWER TV
 http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
-#EXTINF:-1 group-title="افلام", tvg-logo="gggggg" , KRAL TV
+
+
+#EXTINF:-1 group-title="تجرب", tvg-logo="gggggg" , 000
 https://c28.amzn-cdn.net/kmxsvpjjpnumwmesrlseyy7vmba7ag4pae5fa7z2qpxwf6gvu75gbp677pna/v.mp4
 
 
+#EXTINF:-1 group-title="تجرب", tvg-logo="gggggg" , 111
+https://www.clouddrive.site/secure/uploads/956133?shareable_link=974
 
+
+
+#EXTINF:-1 group-title="تجرب", tvg-logo="gggggg" , 222
+https://www.clouddrive.site/secure/uploads/956199?shareable_link=975
 
 
 
